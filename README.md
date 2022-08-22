@@ -1,0 +1,1 @@
+Simple meetup application
